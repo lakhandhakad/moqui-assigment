@@ -4,7 +4,7 @@
     <entity entity-name="Example" package="Example">
         <field name="exampleId" type="id" is-pk="true"/>
         <field name="exampleName" type="text-medium"/>
-        <field name="exampleDate" type="date-time"/>
+        <field name="exampleDate" type="date"/>
         <field name="examplePrice" type="number-decimal"/>
         <field name="exampleQuantity" type="number-integer"/>
     </entity>
